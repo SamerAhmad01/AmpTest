@@ -1,0 +1,3 @@
+# .amplicationignore
+apps/test-server/src/order/order.service.ts
+apps/test-server/src/product/product.service.ts
